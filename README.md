@@ -1,4 +1,4 @@
-Hawaiian Words
+# Hawaiian Words
 
 Hawaiian Words is a program that allows a user to enter a Hawaiian word and recieve the pronounciation of the word(s) as output. 
 
