@@ -37,5 +37,5 @@ ou - Sounds like ow.
 ui - Sounds like ooey. Like gooey.
 
 
-This code is able to be ran in any Python IDE. 
+
 
